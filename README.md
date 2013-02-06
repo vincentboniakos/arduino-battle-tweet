@@ -27,6 +27,6 @@ All in all it looks like this :
 
 ###Follow us!
 
-#### [@romaindr](https://twitter.com/romaindr)
-#### [@vbnks](https://twitter.com/vbnks)
-#### [@picooose](https://twitter.com/picooose)
+[@romaindr](https://twitter.com/romaindr)
+[@vbnks](https://twitter.com/vbnks)
+[@picooose](https://twitter.com/picooose)
