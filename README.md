@@ -17,7 +17,7 @@ An arrow is controlled by a servo-motor and points toward the actual winner.
 
 All in all it looks like this :
 
-![ScreenShot](https://d1zjcuqflbd5k.cloudfront.net/files/tmp_711a04b01a2a1c0dfbdb2494daa4440a/RlbX?response-content-disposition=inline;%20filename*=UTF-8''photo.JPG&Expires=1360150201&Signature=X107qxZGJMdiR0VJyuSKQLa3E1DdIC~rsZp02MpkyC98E4RWmp~upSTohufxCltVt6N64CQZoqhIqK-OjsW7ipTKk4aY8l241bUGfJcHF8~9Vdd7VY1svRnTNXplZA9ejmqXVuBDUc4ArKA9Vh3SLi~f4AJn6Su5LNq24Bo1cn4_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
+![ScreenShot](http://i.imgur.com/dR1ZoM0.jpg)
 
 ###Also, you may want to check these links...
 #### [node.js](http://nodejs.org)
