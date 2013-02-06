@@ -3,7 +3,7 @@
 
 Here is a simple project to measure the popularity of two keywords on Twitter.
 
-## The basic part:
+## The basic part
 
 The web based interface allows to start a battle by entering two keywords ( simple word / expression or hashtags ).
 
@@ -23,7 +23,6 @@ All in all it looks like this :
 #### [node.js](http://nodejs.org)
 #### [socket.io](http://socket.io)
 #### [johnny-five](https://github.com/rwldrn/johnny-five)
-#### [backbone.js](http://backbonejs.org/)
 
 ###Follow us!
 
