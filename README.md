@@ -24,3 +24,9 @@ All in all it looks like this :
 #### [socket.io](http://socket.io)
 #### [johnny-five](https://github.com/rwldrn/johnny-five)
 #### [backbone.js](http://backbonejs.org/)
+
+###Follow us!
+
+#### [@romaindr](https://twitter.com/romaindr)
+#### [@vbnks](https://twitter.com/vbnks)
+#### [@picooose](https://twitter.com/picooose)
